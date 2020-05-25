@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+#pprint is a python built-in module which is used to print out well formatted views of databases 
+
 from pprint import pprint
 
 
