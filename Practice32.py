@@ -8,6 +8,5 @@ def foo():
 c = 3
 print(foo())
 
-# 3 will be printed to the screen. The variable was defined after the return statment, 
-# so there's nothing that c will return. Also 1 was defined, but with python you can  
-# change a variable easily. 
+# 3 will be printed to the screen. The variable was defined after the return statment. 
+# Also 1 was defined, but with python you can change a variable easily. 
